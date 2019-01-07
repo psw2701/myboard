@@ -26,4 +26,6 @@
 		delete from article 
 		where article_no = #{article_no}
 	</delete>
+	
+	<!-- <update id="update" para></update> -->
 </mapper>
